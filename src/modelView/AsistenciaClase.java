@@ -61,6 +61,7 @@ public class AsistenciaClase {
 
                 } else {
                     System.out.println("Opcion invalida");
+                    System.out.println("buenas probando");
                     break;
                 }
 
